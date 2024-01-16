@@ -45,7 +45,7 @@
         "icons/icon.ico"
       ],
       "resources":[
-        "../resources/**/*"
+        "resources/**/*"
       ]
     },
     "security": {
